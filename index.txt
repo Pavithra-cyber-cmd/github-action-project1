@@ -1,0 +1,12 @@
+<html>
+    <title>
+        My awesome website
+    </title>
+    <body>
+          <h1>Login page</h1>
+          <input type="text" placeholder = "username">
+          <input type="password" placeholder = "password">
+          <input type="submit" value = "login">
+          </body>
+          </html>
+
