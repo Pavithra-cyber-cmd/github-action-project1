@@ -10,9 +10,7 @@
           input type="text" placeholder = "username">
           <h2> GEtting otp from mobile</h2>
 
-          <INPUT type="text" placeholder="mobile no"/>
-           <INPUT type="text" placeholder="OTP CODE"/>
-            <input type="submit" value = "login via otp">
+        
 
           </body>
           </html>
